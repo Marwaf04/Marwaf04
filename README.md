@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marwa Fekri</h1>
+<h1 align="center">Hi , I'm Marwa Fekri</h1>
 <h3 align="center">A passionate Software Engineering student at Concordia University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwaf04&label=Profile%20views&color=0e75b6&style=flat" alt="marwaf04" /> </p>
